@@ -20,6 +20,7 @@ glib
 glog
 gmp
 gnutls
+go
 graphite2
 harfbuzz
 icu4c
