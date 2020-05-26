@@ -1,4 +1,4 @@
 basictex
 osxfuse
-vlc
 virtualbox
+vlc
