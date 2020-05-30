@@ -15,6 +15,7 @@ gdbm
 gettext
 gflags
 ghostscript
+gifify
 giflib
 glib
 glog
