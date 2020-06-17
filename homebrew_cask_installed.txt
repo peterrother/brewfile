@@ -1,3 +1,4 @@
+airtable
 basictex
 osxfuse
 virtualbox
