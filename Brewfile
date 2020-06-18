@@ -21,6 +21,7 @@ brew "sshfs"
 brew "wget"
 cask "airtable"
 cask "basictex"
+cask "visual-studio-code"
 cask "vlc"
 mas "Amphetamine", id: 937984704
 mas "Byword", id: 420212497
