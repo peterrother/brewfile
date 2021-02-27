@@ -1,3 +1,5 @@
+tap "achannarasappa/tap"
+tap "apparition47/tap"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
